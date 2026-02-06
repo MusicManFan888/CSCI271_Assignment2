@@ -1,0 +1,18 @@
+=== Fraction Class Test Cases ===
+
+Test 1 (Whole number 16): 16
+Test 2 (3/5 + 7): 38/5
+Test 3 (6/7 * (16 / (3/5 + 7))): 240/133
+Test 4 (5/6 - 2/3): 1/6
+Test 5 (-3/4 negated): 3/4
+Test 6a (2/3 ^ 3): 8/27
+Test 6b (2/3 ^ 0): 1
+Test 6c (2/3 ^ -2): 9/4
+Test 7 (0/0 ? NaN): NaN
+Test 8 (7/0 ? Infinity): Infinity
+Test 9 (-6/0 ? -Infinity): -Infinity
+Test 10 (0/5 ? 0): 0
+Test 11 (8/12 ? reduced 2/3): 2/3
+Test 12 (Complex operations): 11/48
+
+=== End of Test Cases ===
