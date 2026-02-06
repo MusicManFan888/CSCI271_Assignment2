@@ -112,7 +112,7 @@ public static void main(String[] args)
                             .multiply(new Fraction(3,4))
                             .subtract(new Fraction(1,6))
                             .divide(new Fraction(2));
-        System.out.println("Test 12 (Complex operations): " + complex);
+        System.out.println("Test 12 (Complex operations): (1/2 + 1/3 * 3/4 -1/6)/2" + complex);
 
         System.out.println("\n=== End of Test Cases ===");
     }
